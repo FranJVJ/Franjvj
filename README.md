@@ -2,7 +2,9 @@
 
 🙌 Hi i´m Fran, a 21 years old programmer and sysadmin student. From Málaga, Spain.
 
--📚 I´m currently learning html, css, javascript, react and python as programming languages. Also lerning Ansible.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-📚 I´m currently learning html, css, javascript, react and python. Also lerning a bit of Ansible.
   
 -👷‍♂️ I´m currently working on make some projects to apply what im leraning.
 
