@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--📚 I´m currently learning html, css, javascript, react and python. Also lerning a bit of Ansible.
+-📚 I´m currently learning html, css, javascript, react and python.
   
 -👷‍♂️ I´m currently working on make some projects to apply what im leraning.
 
