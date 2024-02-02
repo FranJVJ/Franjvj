@@ -2,10 +2,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--📚 I´m currently learning html, css, javascript, react and python.
-  
--👷‍♂️ I´m currently working on make some projects to apply what im leraning.
-
 <!--
 **FranJVJ/Franjvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
