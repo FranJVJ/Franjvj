@@ -1,6 +1,4 @@
-🙌 Hi i´m Fran, a 22 years old programmer and sysadmin student. From Málaga, Spain.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **FranJVJ/Franjvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
